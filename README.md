@@ -45,9 +45,6 @@ This project serves as an excellent starting point for Flutter beginners to unde
 
 <table>
   <tr>
-    <td><img src="https://github.com/Arshnoor-Singh-Sohi/Currency-Converter/raw/main/screenshots/material_empty.png" alt="Material Design Empty State" width="250"/></td>
-    <td><img src="https://github.com/Arshnoor-Singh-Sohi/Currency-Converter/raw/main/screenshots/material_input.png" alt="Material Design With Input" width="250"/></td>
-    <td><img src="https://github.com/Arshnoor-Singh-Sohi/Currency-Converter/raw/main/screenshots/material_result.png" alt="Material Design With Result" width="250"/></td>
   </tr>
   <tr>
     <td align="center">Initial State</td>
@@ -60,9 +57,6 @@ This project serves as an excellent starting point for Flutter beginners to unde
 
 <table>
   <tr>
-    <td><img src="https://github.com/Arshnoor-Singh-Sohi/Currency-Converter/raw/main/screenshots/cupertino_empty.png" alt="Cupertino Design Empty State" width="250"/></td>
-    <td><img src="https://github.com/Arshnoor-Singh-Sohi/Currency-Converter/raw/main/screenshots/cupertino_input.png" alt="Cupertino Design With Input" width="250"/></td>
-    <td><img src="https://github.com/Arshnoor-Singh-Sohi/Currency-Converter/raw/main/screenshots/cupertino_result.png" alt="Cupertino Design With Result" width="250"/></td>
   </tr>
   <tr>
     <td align="center">Initial State</td>
